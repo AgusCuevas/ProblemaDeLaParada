@@ -54,8 +54,6 @@ En ambos casos, encontramos una contradicción. Esto demuestra que no puede habe
 
 - **Seguridad informática**: El problema de la parada también tiene implicaciones en la seguridad informática. Algunos ataques maliciosos pueden aprovecharse de programas que no se detienen para bloquear sistemas o consumir recursos.
 
-- **Inteligencia artificial**: Algunos investigadores creen que el problema de la parada plantea preguntas sobre la naturaleza de la inteligencia y si las máquinas pueden alcanzar el mismo nivel de inteligencia que los humanos.
-
 ## Soluciones
 
 Se afirma que no existe una manera automática computable de saber si todos los programas posibles terminan. No se niega que exista la prueba para programas concretos. De hecho, la construcción de pruebas para programas concretos es un paso obligatorio para demostrar su correctitud.
