@@ -11,6 +11,9 @@ El concepto de problema de detención fue introducido por primera vez por el mat
 - El trabajo de Turing destacó las limitaciones en el poder computacional encontrado dentro de las Máquinas de Turing.
 - La solución al problema de la detención es un rotundo "no", lo que significa que es imposible tener un algoritmo que pueda determinar con precisión este caso para todos los escenarios.
 
+![image](https://github.com/user-attachments/assets/64aa18fe-5fe1-48eb-8307-49ad47f01810)
+
+
 ## Máquina de Turing
 
 Una Máquina de Turing es un modelo matemático que consiste en un autómata capaz de implementar cualquier problema matemático expresado por medio de un algoritmo. Consiste en:
@@ -18,6 +21,9 @@ Una Máquina de Turing es un modelo matemático que consiste en un autómata cap
 - Una cinta infinita dividida en celdas, donde cada celda contiene un símbolo.
 - Un cabezal lector/escritor, que puede moverse a la izquierda o derecha y modificar el contenido de la celda actual.
 - Un conjunto finito de estados y una función de transición que define cómo cambia el estado y qué acción debe realizarse (moverse o modificar la cinta).
+
+![image](https://github.com/user-attachments/assets/46b91723-873a-4cc7-a8bf-b72da9097c29)
+
 
 ## Ejemplo del problema
 Existe un programa llamado **"detector de problema"** que recibe dos entradas: un programa \( P \) y una entrada \( I \). Este programa devuelve:
@@ -35,6 +41,9 @@ Ahora, veamos qué sucede cuando le damos a **Bucle** su propia descripción com
 2. Si el **detector de problema** dice **"No"** (es decir, **Bucle** no se detendrá), entonces **Bucle** debería detenerse de inmediato. (COTRADICCIÓN)
 
 En ambos casos, encontramos una contradicción. Esto demuestra que no puede haber un programa que resuelva el problema de la parada para todos los programas posibles. ¡Por lo tanto, el problema de la parada es indecidible
+
+![image](https://github.com/user-attachments/assets/5c18abb3-8d7e-4b4a-804c-10b98bcacc37)
+
 
 ## Consecuencias del problema de la parada
 
