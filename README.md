@@ -65,3 +65,6 @@ Se afirma que no existe una manera automática computable de saber si todos los 
 El procedimiento para construir estas pruebas no es automático; sin embargo, existen opciones que facilitan encontrar las pruebas de los programas. El área de conocimiento que estudia la construcción sistemática de pruebas se denomina **Análisis de Terminación**.
 
 ## Conclusión
+El problema de la parada demuestra una limitación fundamental en la computación: no existe un algoritmo general capaz de determinar si un programa arbitrario se detendrá o continuará ejecutándose indefinidamente para una entrada dada. Esta indecidibilidad se prueba mediante una paradoja lógica que surge al asumir la existencia de un "detector de problema" infalible. El resultado tiene profundas implicaciones en diversos campos de la informática, desde la teoría de la computación hasta el diseño de lenguajes de programación, la verificación de software y la seguridad informática. 
+
+Aunque no es posible resolver el problema de la parada en términos generales, se pueden construir pruebas específicas para programas concretos a través del análisis de terminación. En última instancia, este problema pone en evidencia los límites inherentes de los sistemas computacionales y subraya la importancia de métodos formales para garantizar la correctitud y confiabilidad del software.
