@@ -11,8 +11,7 @@ El concepto de problema de detención fue introducido por primera vez por el mat
 - El trabajo de Turing destacó las limitaciones en el poder computacional encontrado dentro de las Máquinas de Turing.
 - La solución al problema de la detención es un rotundo "no", lo que significa que es imposible tener un algoritmo que pueda determinar con precisión este caso para todos los escenarios.
 
-![image](https://github.com/user-attachments/assets/64aa18fe-5fe1-48eb-8307-49ad47f01810){ width=300 height=200 }
-
+![image](https://github.com/user-attachments/assets/b41b3670-5d7c-43c0-af3f-6d554f15dfed)
 
 ## Máquina de Turing
 
