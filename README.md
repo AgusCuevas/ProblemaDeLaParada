@@ -44,9 +44,7 @@ En ambos casos, encontramos una contradicción. Esto demuestra que no puede habe
 ![image](https://github.com/user-attachments/assets/5c18abb3-8d7e-4b4a-804c-10b98bcacc37)
 
 
-## Consecuencias del problema de la parada
-
-## Aplicaciones del problema
+## Consecuencias / Aplicaciones del problema de la parada
 
 - **Comprensión de los límites de la computación**: El problema de la parada demuestra que existen problemas que las computadoras no pueden resolver. Esto ayuda a comprender las limitaciones inherentes de los algoritmos y los programas.
   
